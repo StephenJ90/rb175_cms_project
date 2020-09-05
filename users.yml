@@ -1,0 +1,14 @@
+---
+developer: "$2a$12$I6nbjHVNoqmQ4wlpYCJ7NuBZkR0.cbSq4jNVARIt7ist135vVCG8."
+bugs: !ruby/string:BCrypt::Password
+  str: "$2a$12$Eru3g1jn./P97XkGQkLxfOsh4erquUoYJ8khXaxGbsUikHRlsVAoe"
+  version: 2a
+  cost: 12
+  salt: "$2a$12$Eru3g1jn./P97XkGQkLxfO"
+  checksum: sh4erquUoYJ8khXaxGbsUikHRlsVAoe
+clint: !ruby/string:BCrypt::Password
+  str: "$2a$12$GZl.6JwBSfQkvYoGAif.2OAtGiTY5CvmcCDV7po.i1QKF31a30biu"
+  version: 2a
+  cost: 12
+  salt: "$2a$12$GZl.6JwBSfQkvYoGAif.2O"
+  checksum: AtGiTY5CvmcCDV7po.i1QKF31a30biu
